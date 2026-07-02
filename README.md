@@ -21,8 +21,7 @@ README.md
 
 - Update the name, program, institution, biography, and research descriptions directly in
   the HTML files.
-- Replace placeholder external links for LinkedIn and Google Scholar with the correct
-  profile URLs.
+- Replace the Google Scholar placeholder link with the correct profile URL when available.
 - Replace the placeholder profile photo at `assets/profile.jpg` with the final photo.
   The homepage already points to this path.
 - Add the CV PDF at `files/Xingyun_Mou_CV.pdf`. The navigation and homepage CV links
